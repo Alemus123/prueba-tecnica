@@ -12,5 +12,5 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina. Tam
    ```bash
    git clone 
 2. Una vez Clonado entra a la carpeta prueba-tecnica-ui
-3. Corre en bash el comando npm install
-4. Una vez termine para correr el proyecto es npm run dev 
+3. Corre en bash el comando ```bash npm install
+4. Una vez termine para correr el proyecto es ```bash  npm run dev 
