@@ -40,4 +40,5 @@ GO
  
  .NET 8
  Swagger
- 
+ EntityFrameworkCore 8.0.8
+ Abrirlo con ISS
