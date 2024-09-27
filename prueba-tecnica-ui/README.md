@@ -1,10 +1,11 @@
 # Proyecto de Prueba Técnica - Sistema de Gestión de Revistas
 
-Este proyecto es una aplicación web diseñada para gestionar suscripciones a investigadores y visualización de archivos PDF.
+Este proyecto es una aplicación web diseñada para gestionar suscripciones a investigadores y visualización de archivos PDF. Desarrollada con React V18
 
 ## Requisitos Previos
 
 Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina. También necesitarás tener acceso a la base de datos SQL Server configurada para este proyecto.
+
 
 ## Instalación
 
@@ -12,5 +13,9 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina. Tam
    ```bash
    git clone 
 2. Una vez Clonado entra a la carpeta prueba-tecnica-ui
-3. Corre en bash el comando ```bash npm install
-4. Una vez termine para correr el proyecto es ```bash  npm run dev 
+3. Corre en bash el comando:
+    ```bash
+    npm install
+5. Una vez termine para correr el proyecto es :
+  ```bash
+npm run dev 
