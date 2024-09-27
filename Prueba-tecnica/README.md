@@ -38,7 +38,7 @@ GO
 ```
 ### Backend
  
- .NET 8
- Swagger
- EntityFrameworkCore 8.0.8
- Abrirlo con ISS
+ 1. .NET 8
+ 2. Swagger
+ 3. EntityFrameworkCore 8.0.8
+ 4. Abrirlo con ISS
