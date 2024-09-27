@@ -37,4 +37,7 @@ GO
 
 ```
 ### Backend
-
+ 
+ .NET 8
+ Swagger
+ 
