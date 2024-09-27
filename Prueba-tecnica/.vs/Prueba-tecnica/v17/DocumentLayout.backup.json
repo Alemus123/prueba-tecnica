@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\controllers\\journalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:controllers\\journalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\models\\journals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:models\\journals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\prueba-tecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:prueba-tecnica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\dto\\createjournaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:dto\\createjournaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|c:\\users\\johle\\onedrive\\documentos\\prueba-tecnica\\prueba-tecnica\\prueba-tecnica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{174F0FAC-52DF-429B-8806-87A31F57F3DF}|Prueba-tecnica.csproj|solutionrelative:prueba-tecnica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "Models\\Subscription.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Models\\Subscription.cs",
+              "RelativeToolTip": "Models\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:51:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prueba-tecnica",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Prueba-tecnica.csproj",
+              "RelativeDocumentMoniker": "Prueba-tecnica.csproj",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Prueba-tecnica.csproj",
+              "RelativeToolTip": "Prueba-tecnica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T06:40:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubscriptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Controllers\\SubscriptionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubscriptionsController.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Controllers\\SubscriptionsController.cs",
+              "RelativeToolTip": "Controllers\\SubscriptionsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:51:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:04:30.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JournalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Controllers\\JournalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JournalsController.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Controllers\\JournalsController.cs",
+              "RelativeToolTip": "Controllers\\JournalsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:13:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:50:34.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Journals.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Models\\Journals.cs",
+              "RelativeDocumentMoniker": "Models\\Journals.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Models\\Journals.cs",
+              "RelativeToolTip": "Models\\Journals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:03:04.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:03:41.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateJournalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\DTO\\CreateJournalDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateJournalDto.cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\DTO\\CreateJournalDto.cs",
+              "RelativeToolTip": "DTO\\CreateJournalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:41:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\DbContext .cs",
+              "RelativeDocumentMoniker": "DbContext .cs",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\DbContext .cs",
+              "RelativeToolTip": "DbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:20:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T02:56:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prueba-tecnica",
+              "DocumentMoniker": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Prueba-tecnica.csproj",
+              "RelativeDocumentMoniker": "Prueba-tecnica.csproj",
+              "ToolTip": "C:\\Users\\Johle\\OneDrive\\Documentos\\Prueba-tecnica\\Prueba-tecnica\\Prueba-tecnica.csproj",
+              "RelativeToolTip": "Prueba-tecnica.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T03:51:11.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+}
+header {
+  background-color: #f8f9fa; /* Color de fondo claro */
+  padding: 1rem; /* Espaciado interno */
+}
+
+header h1 {
+  margin: 0; /* Sin margen */
+}
